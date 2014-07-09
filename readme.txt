@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Great Plugin to use for Front End Editor
 
 == Description ==
-= My Custom Editor for Front End. 
+My Custom Editor for Front End. 
 
 Wordpress Editor Plugin is Used to Show Wordpress Editor on Front End by Putting below Function in any File
 //Add Below code 
@@ -27,10 +27,10 @@ This Plugin will help you if you dont know HTML Tags , so you can easily add dat
 3. Place `<?php the_editor($content, 'content');?>` in your templates
 
 == Frequently Asked Questions ==
-=Is this Editor Show External Plugin Short codes as admin editor Shows=
+Is this Editor Show External Plugin Short codes as admin editor Shows
 No , It only show a simple editor as we are working on that functionality and sooner you will see our next version with Complete Functionality.
 
-=Is this Plugin work in all version of Wordpress=
+Is this Plugin work in all version of Wordpress
 Yes , It will work in all the version of wordpress.
 
 == Screenshots ==
